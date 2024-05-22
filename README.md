@@ -33,11 +33,12 @@ Explore the various visualizations and tables.
 Data Cleaning
 
 The dataset has undergone basic data cleaning to ensure accuracy and consistency. Cleaning steps include correcting the column headers, removing/filling null values if required.
+
 Visual Segmentation
 
-• Region, Country, and Market by Sales:
+•, Country, and Marketby Sales:
 
-o Used Maps to visualize sales across different Regions and Country and Used Donut chart to visualize the Market by Sales
+o Used Maps to visualize sales across different Country and Used Donut chart to visualize the Market by Sales
 Shipping Analysis
 
 • Shipping Percentage by Ship Mode:
@@ -66,4 +67,3 @@ Tables
 
 • Tables for Detailed Information:
 
-o Supporting tables have been created for each visualization.
